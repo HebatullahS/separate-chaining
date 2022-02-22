@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526409038 source:c:\users\lenovo\desktop\ds\sprate chaining\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
